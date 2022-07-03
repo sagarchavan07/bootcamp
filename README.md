@@ -1,1 +1,2 @@
-# Bridgelabz Bootcamp
+# Bridgelabz CodInClub Bootcamp 
+
